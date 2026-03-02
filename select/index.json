@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "FLASH FORWARD",
+  "base_artist": "Aooo",
+  "createdAt": "2026-03-02T10:18:02.975553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Miss Kittin",
+      "has_synced": false,
+      "path": "select/01_Flash_Forward_Miss_Kittin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Serge Gainsbourg",
+      "has_synced": true,
+      "path": "select/02_Flash_Forward_Serge_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/03_Flash_Forward_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Gainsbourg, Serge",
+      "has_synced": true,
+      "path": "select/04_Flash_Forward_Gainsbourg,_Serge.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Django Django",
+      "has_synced": false,
+      "path": "select/05_Flash_Forward_Django_Django.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Alain Bashung",
+      "has_synced": false,
+      "path": "select/06_Flash_Forward_Alain_Bashung.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Bashung, Alain",
+      "has_synced": false,
+      "path": "select/07_Flash_Forward_Bashung,_Alain.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Downey Chase",
+      "has_synced": true,
+      "path": "select/08_Flash_Forward_Downey_Chase.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/09_Flash_Forward_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Petroglyphs",
+      "has_synced": true,
+      "path": "select/10_Flash_Forward_Petroglyphs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Penta",
+      "has_synced": false,
+      "path": "select/11_Flash_Forward_Penta.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flash Forward",
+      "artist": "Alain Bashung",
+      "has_synced": false,
+      "path": "select/12_Flash_Forward_Alain_Bashung.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "05. Flash Forward",
+      "artist": "Serge Gainsbourg",
+      "has_synced": true,
+      "path": "select/13_05._Flash_Forward_Serge_Gainsbourg.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FLASH FORWARD",
+      "artist": "Aooo",
+      "has_synced": false,
+      "path": "select/pl_01_FLASH_FORWARD_Aooo.txt"
+    }
+  ]
+}
